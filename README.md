@@ -39,7 +39,7 @@ $20,000 in sprint funds for developers in diaspora.
 
 Ongoing-costs:  
 
-$$$$$ Labor
+$$$$$ Labor  
 $$$ Translation  
 $1000/year VPS infrastructure  
 
