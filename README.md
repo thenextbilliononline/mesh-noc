@@ -1,5 +1,5 @@
 # mesh-noc
-This will be a stand-up mesh network operations center for new mesh locals to get up and go.  
+This will be a stand-up mesh network operations center for new mesh locals to get up and go. Ideally the server infrastructre would be relatively independent (i.e. Wekan/BGP wouldn't have to be same device, but could be).
 
 Infrastructure Required:  
 
@@ -15,6 +15,7 @@ Infrastructure Required:
 [ ] Volunteer intake  
 [ ] Customer Relations management  
 [ ] Rocket chat/ slack  
+[ ] Wekan
   
 Funding:
 
