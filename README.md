@@ -1,51 +1,54 @@
 # mesh-noc
-This will be a stand-up mesh network operations center for new mesh locals to get up and go.
+This will be a stand-up mesh network operations center for new mesh locals to get up and go.  
 
-Infrastructure Required:
+Infrastructure Required:  
 
-[ ] ASN
-[ ] BGP Server
-[ ] DNS Server
-[ ] Tunneling Server
-[ ] Stand-up Website
-[ ] Cryptpad Server
-[ ] SMTP server
-[ ] Calendar Application
-[ ] Meet-up Page
-[ ] Volunteer intake
-[ ] Customer Relations management
-[ ] Rocket chat/ slack
-
+[ ] ASN  
+[ ] BGP Server  
+[ ] DNS Server  
+[ ] Tunneling Server  
+[ ] Stand-up Website  
+[ ] Cryptpad Server  
+[ ] SMTP server  
+[ ] Calendar Application  
+[ ] Meet-up Page  
+[ ] Volunteer intake  
+[ ] Customer Relations management  
+[ ] Rocket chat/ slack  
+  
 Funding:
 
-$400 ASN
-$100 ASN annual maintenance fee
-$4000 /24 IP address set
-$1000 Server Lab
-$900/year hosting fees
+$400 ASN  
+$100 ASN annual maintenance fee  
+$4000 /24 IP address set  
+$1000 Server Lab  
+$900/year hosting fees  
 
-RF-Lab:
+RF-Lab:  
 
-$500 (each) Lime-SDR (would want 2 X 3-piece kits for mesh testing, i.e. >6)
-$150 (each) Libre-Routers (>6, but can scale without bounds)
-$300 (each) battery kit for field testing (>2)
-$100 Cabling (ethernet cord, power cables, poe injectors)
-$300 managed network switch with arm processor
+$500 (each) Lime-SDR (would want 2 X 3-piece kits for mesh testing, i.e. >6)  
+$150 (each) Libre-Routers (>6, but can scale without bounds)  
+$300 (each) battery kit for field testing (>2)  
+$100 Cabling (ethernet cord, power cables, poe injectors)  
+$300 managed network switch with arm processor  
 
-Stipends:
+Stipends:  
 
-$20,000 for Organization, lawyers, LLC, and inter-mesh coordination
-$20,000 in sprint funds for developers in diaspora.
+$20,000 for Organization, lawyers, LLC, and inter-mesh coordination  
+$20,000 in sprint funds for developers in diaspora.  
 
-Ongoing-costs:
+Ongoing-costs:  
 
 $$$$$ Labor
-$1000/year VPS infrastructure
+$$$ Translation  
+$1000/year VPS infrastructure  
 
-Long-Term Funding Ideas:
+Long-Term Funding Ideas:  
 
-paid support for librerouters (requires different support model)
-grant funding (better as seed capital/not sustainable)
-member funding (enough to keep VPS going, no labor support)
-research grants (the big money--labor costs can be funded for new research)
+paid support for librerouters (requires different support model)  
+grant funding (better as seed capital/not sustainable)  
+member funding (enough to keep VPS going, no labor support)  
+research grants (the big money--labor costs can be funded for new research)  
+
+
 
