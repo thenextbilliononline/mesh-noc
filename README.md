@@ -1,7 +1,7 @@
 # mesh-noc
 This will be a stand-up mesh network operations center for new mesh locals to get up and go. Ideally the server infrastructre would be relatively independent (i.e. Wekan/BGP wouldn't have to be same device, but could be).
 
-Infrastructure Required:  
+### Infrastructure Required:  
 
 [ ] ASN  
 [ ] BGP Server  
@@ -16,7 +16,11 @@ Infrastructure Required:
 [ ] Customer Relations management  
 [ ] Rocket chat/ slack  
 [ ] Wekan
+[x] Organization
+[ ] Non-Profit Status
   
+### Money
+
 #### BGP/Datacenter Infrastructure:
 
 |Desc| Price |	QTY	 |Total |
