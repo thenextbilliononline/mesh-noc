@@ -77,10 +77,6 @@ Sprint funds to be allocated based on urgent and widespread need for a given pro
 |Hosting | $1000 | year | $1000|
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale | 
-=======
-$$$$$ Labor  
-$$$ Translation  
-$1000/year VPS infrastructure  
 
 Long-Term Funding Ideas:  
 
