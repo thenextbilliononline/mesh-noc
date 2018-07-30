@@ -43,8 +43,6 @@ Total: $7550
 
 Total: $1810
 
-
-<<<<<<< HEAD
 #### RF-Lab:  
 |Desc| Price |	QTY	 |Total 
 |---|-------|--------|------|
