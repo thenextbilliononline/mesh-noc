@@ -20,13 +20,14 @@ Infrastructure Required:
 
 |Desc| Price |	QTY	 |Total |
 |---|-------|--------|------|
-|Supermicro E2008D - 128GB ECC RAM	| $2,300.00 |	1|	$2,300.00| 
+|Supermicro E2008D - 128GB ECC RAM	|| $2,300.00 |	1|	$2,300.00| 
 |Rackmount Adapter|	 $50.00 	|1|	 $50.00 |
 |2TB SSD|	 $300.00 |	2	| $  600.00 |
 |ASN| $400| 1 | $400|
 |IPv4 adresses (/24) | $4000| /24 | $4000|
+|Interconnect Fee | $200 | 1 | $200 |
 
-Total: $7350
+Total: $7550
 
 #### Server Lab:
 
@@ -59,15 +60,23 @@ Total: $4900
 |Desc| Price |	QTY	 |Total |
 |---|-------|--------|------|
 | Lawyers, incorporation, non-profit status, and   import/export | $10000 | 1 year | $10000|
-|Sprint funds| $20,000| 1 | $20000|S
+|Sprint funds| $20,000| 1 | $20000|
 |Research grant| $20,000| for the compilation and federation of community network knowledge in the Americas | 1 year | 
 
 Sprint funds to be allocated based on urgent and widespread need for a given production/deployment schedule as determined by mesh locals. These would be small grants (like $100 for a day of work) that would help us retain 'volunteers' and fund people in the developing world to do important mesh work (where the law permits).  By keeping the grants small and paying by project rather than time, we can open up our development to marginalized communities where $100 would have much more impact without ignoring the very real cost of volunteer labor. The program wil be called developers in diaspora. There are various models to establish a pay scale. Open whisper systems, the developers of signal have a platform for paying per commit to their repository. This might work, but could run afoul of international finance regulations if not done under strict supervision of a qualified attorney.
 
 #### Ongoing-costs:  
 
-|Desc| Price |	QTY	 |Total |
+|Desc| Price |	term  |Total |
 |---|-------|--------|------|
+|Translation | $$ | scale | with scale | 
+|Org Lawyer | $10,000 | annual | $10000 |
+|Org Principal (stipend, part-time) | $10,000| annual | $10000 | 
+|Org support engineer (stipend, part-time) | $10000| annual | $10000|
+|Org designer (stipend, part-time)| $10,000| annual | $10000|
+|Hosting | $1000 | year | $1000|
+|Hardware  maintenance | $10000 | 5 years | $2000/year|
+|BGP transit | $.30 | mbps | continuous, with scale | 
 
 Long-Term Funding Ideas:  
 
