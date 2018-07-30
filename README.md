@@ -1,5 +1,5 @@
 # mesh-noc
-This will be a stand-up mesh network operations center for new mesh locals to get up and go.  
+This will be a stand-up mesh network operations center for new mesh locals to get up and go. Ideally the server infrastructre would be relatively independent (i.e. Wekan/BGP wouldn't have to be same device, but could be).
 
 Infrastructure Required:  
 
@@ -15,6 +15,7 @@ Infrastructure Required:
 [ ] Volunteer intake  
 [ ] Customer Relations management  
 [ ] Rocket chat/ slack  
+[ ] Wekan
   
 #### BGP/Datacenter Infrastructure:
 
@@ -43,6 +44,7 @@ Total: $7550
 Total: $1810
 
 
+<<<<<<< HEAD
 #### RF-Lab:  
 |Desc| Price |	QTY	 |Total 
 |---|-------|--------|------|
@@ -77,6 +79,10 @@ Sprint funds to be allocated based on urgent and widespread need for a given pro
 |Hosting | $1000 | year | $1000|
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale | 
+=======
+$$$$$ Labor  
+$$$ Translation  
+$1000/year VPS infrastructure  
 
 Long-Term Funding Ideas:  
 
