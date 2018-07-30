@@ -1,5 +1,18 @@
-# mesh-noc
+# Mesh-NOC
 This will be a stand-up mesh network operations center for new mesh locals to get up and go. Ideally the server infrastructre would be relatively independent (i.e. Wekan/BGP wouldn't have to be same device, but could be).
+
+## Problem
+## Importance
+## Methods
+## Goals
+## Team
+## Data
+## Timeline
+## Success
+## Reproducibility
+## Scalability
+## Federation
+## Sustainability
 
 ### Infrastructure Required:  
 
@@ -15,7 +28,7 @@ This will be a stand-up mesh network operations center for new mesh locals to ge
 [ ] Volunteer intake  
 [ ] Customer Relations management  
 [ ] Rocket chat/ slack  
-[ ] Wekan
+[ ] Kanban
 [x] Organization
 [ ] Non-Profit Status
   
@@ -82,7 +95,7 @@ Sprint funds to be allocated based on urgent and widespread need for a given pro
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale | 
 
-Long-Term Funding Ideas:  
+#### Long-Term Funding Ideas:  
 
 paid support for librerouters (requires different support model)  
 grant funding (better as seed capital/not sustainable)  
