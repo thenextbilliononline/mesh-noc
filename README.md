@@ -10,14 +10,15 @@ The mesh networking movement started with a linux distribution for routers calle
 After many years of using commercially available hardware, Altermundi, in conjunction with many other groups, started developing the ultimate mesh hardware. These have been in testing since last year as prototypes and the results are very promising. The radios are capable of 150Mbps connections covering a radius of 200 meters. In NYC, that could provide internet access to an entire building for $150. In Argentina, a single unit is capable of providing connectivity to  an entire village. However, the open source software is missing some components that are widely available in commercial and proprietary implementations. It is very difficult to start a new mesh from scratch. Ad-hoc networks are not very good at documentation and each locale builds components in parallel. Additionally,the BGP, organizational, and web infrastructure if very technical and hard to maintain. Finally, the open-source software stack lacks any practical way for communities to monitor network quality and distribute resources fairly. Thus far, communities have relied on good neighbor policies to keep the networks operating, but as they scale, network trust is harder to build and technical solutions must be found. 
 
 
-## Solution 
+## Solutions 
 
 So, in the spirit of inter-mesh cooperation, we have committed the next twelve months to:
 
-1. Establishing lines of contact between mesh locals, document, research, and gather data to be placed in a centralized location and shared with each mesh local. (@simplymathematics)
-2. Building a stand-alone mesh network operations center that will allow any mesh local (or other decentralized, open-source group) to deploy an open-source productivity and web app suite for everything from emails and calendars, to cloud documents and inter-mesh tunneling. (@mikenabhan)
-3. Developing a theoretical framework and test-suite for mesh network spectrum management using anonymous data gathered from librerouters and simulated on Mini-net Wifi (with mesh extensions) (@simplymathematics). 
-4. Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Times Divison Multiplexing and Autonomous Channel State Management (@nicopace). This project is called (astral-mesh).
+1. **FODD (Federation of Decentralized Documentation): **Establishing lines of contact between mesh locals, document, research, and gather data to be placed in a centralized location and shared with each mesh local. (@simplymathematics)
+2. ** Mesh-Noc: ** Building a stand-alone mesh network operations center that will allow any mesh local (or other decentralized, open-source group) to deploy an open-source productivity and web app suite for everything from emails and calendars, to cloud documents and inter-mesh tunneling. (@mikenabhan)
+3. ** Mesh Lab: ** Developing a theoretical framework and test-suite for mesh network spectrum management using anonymous data gathered from librerouters and simulated on Mini-net Wifi (with mesh extensions) (@simplymathematics). 
+4. ** Mesh Map: ** Using Raspberry Pis and/or Libre-routers, we will create a heatmapping and spectrum monitoring platform to aid in data collection and analysis for the other components. 
+5. ** Astral Mesh: ** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Times Divison Multiplexing and Autonomous Channel State Management (@nicopace). This project is called (astral-mesh).
     
 ## Importance
 
@@ -38,18 +39,17 @@ This virtuous relation between hardware vendors and the community has been threa
 
 There are three key problems facing community networks all over the world right now: documentation and coordination of best practices, parallel reproduction of management/support efforts, and a lack of smart spectrum management. We have a roadmap to begin addressing these issues.
 
-1. Inter-Mesh
-2. Mesh-NOC
-3. Mesh-Map
-4. Astral-Mesh
-5. Rinse, Wash, Repeat
-
+1. FODD
+2. Mesh-Noc
+3. Mesh-Lab
+4. Mesh-Map
+5. Astral-Mesh
 
 ## Goals
 
 1. Intermesh book, pdf, webpage, and repo
-2. Mesh Ironically Centralized Server Stack (MICSS)
-3. Spectrum lab
+2. productivity and data center suite for mesh locals
+3. mobile spectrum lab
 4. Spectrum management tool(s)
 5. Rinse, Wash, Repeat
 
@@ -59,7 +59,7 @@ There are three key problems facing community networks all over the world right 
 @simplymathematics: 
 @mikenabhan:
 mikenabhan is an ideal candidate for this role.  As the Chair of the American Public Transportation Association’s Emerging Technology committee, he is working to study the implementation of mesh-networking along Rail Right of Way for industrial control systems connectivity.  His technical background is as a DataOps Engineer for a State Agency.  Mike has experience in architecting IT infrastructure that is resilient to failures, actively running a network announced via BGP and in the process of writing implementation standard for a decentralized BGP over CJDNS network.  The intent of this project is to integrate the solutions that BGP solved during its implementation in 1994 with the current mesh networking standards to allow for the integration of more traditional networking services over a mesh network, as well as provide knowledge on how the internet backbone functions to mesh enthusiasts.  Mike runs a information technology consulting firm to keep his skills sharp.  Mike is a security enthusiast and moonlights as a penetration tester, and is certified to DoD Information Assurance Technical Level II, as well as certified in the operations of a Security Operations Center.  Mike’s hobby network spans multiple continents, and he has been contracted to harden distributed infrastructure as well as implement automation and orchestration solutions of distributed infrastructure.  Mike is also a licensed radio amateur, primarily active in IP-modes.  For his day job, Mike’s experience is in big data analytics, and infrastructure monitoring of safety critical assets.  This skillset combines to form an ideal candidate for taking lead on the development of a Mesh Network Operations Center.  Mike is particularly passionate about the mission of The Next Billion, evangelizing the role that technology can play in advancing the interests of people who have limited to no access to the internet at large.
-
+@brazilian-code:
 ## Data Policies
 
 1. funding, govenance, protocols, tech, best practices
@@ -91,14 +91,15 @@ Member-support, VPN service, VPS service, hardware, hardware support, etc to be 
 
 ## Success
 
-Mesh-Noc Stack
-Mesh-Map Kit
-Astral-Mesh
-Inter-Mesh
+1. FODD
+2. Mesh-Noc
+3. Mesh-Lab
+4. Mesh-Map
+5. Astral-Mesh
 
 ## Reproducibility
 
-Github, pdf, book, webpage
+Github, pdf, book, webpage, peer-review
 
 ## Scalability and Federation
 
@@ -107,7 +108,6 @@ Push-button mesh server with extensions, plugins, and/or scripts for extensions 
 ## Sustainability
 
 $$$ TBD
-
 
 ### Infrastructure Required:  
 ##### Checklist  of Infrastructure Required:  
@@ -126,7 +126,7 @@ $$$ TBD
 [ ] Rocket chat/ slack  
 [ ] Kanban  
 [x] Organization  
-[ ] Non-Profit Status  (
+[ ] Non-Profit Status   
   
 #### BGP/Datacenter Infrastructure:
 
@@ -189,19 +189,19 @@ USB wifi dongle | $20 | 2 | $40|
 
 Total: $410
 
-#### Ongoing-cost (12):
+#### Ongoing-costs (2019-2020 Projected):
 
-|Desc| Price |	term  |Total |
+|Desc| Price |	Term  |Total |
 |---|-------|--------|------|
 |Translation | $$ | scale | with scale | 
 |Org Lawyer | $10,000 | annual | $10000 |
 |Org Principal (stipend, part-time) | $10,000| annual | $10000 | 
-|Org support engineer (stipend, part-time) | $10000| annual, scales with member support | $10000|
+|Org support engineers (stipends, part-time) | $40000| annual, scales with member support | $40000|
 |Org designer (stipend, part-time)| $10,000| annual | $10000|
 |Hosting | $1000 | year | $1000|
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale | 
-|Inter-mesh Travel| $200 | per trip | continuous, with scale | 
+|Inter-mesh Travel| $200-$500 | per trip | continuous, with scale | 
 
 
 ### Long-Term Funding Ideas:  
@@ -210,4 +210,4 @@ Total: $410
  * grant funding (better as seed capital/not sustainable)  
  * member funding (enough to keep VPS going, not very much labor support at smalls scale)  
 * research grants (the big money--labor costs can be funded for new research)  
- * Vpns, tunnels, ip leasing, vps, etc  
+ * Vpns, tunnels, ip leasing, vps, etc 
