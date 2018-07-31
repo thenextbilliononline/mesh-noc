@@ -18,7 +18,7 @@ So, in the spirit of inter-mesh cooperation, we have committed the next twelve m
 2. **Mesh-Noc:** Building a stand-alone mesh network operations center that will allow any mesh local (or other decentralized, open-source group) to deploy an open-source productivity and web app suite for everything from emails and calendars, to cloud documents and inter-mesh tunneling. (@mikenabhan)
 3. **Mesh Lab:** Developing a theoretical framework and test-suite for mesh network spectrum management using anonymous data gathered from librerouters and simulated on Mini-net Wifi (with mesh extensions) (@simplymathematics). 
 4. **Mesh Map:** Using Raspberry Pis and/or Libre-routers, we will create a heatmapping and spectrum monitoring platform to aid in data collection and analysis for the other components. 
-5. **Astral Mesh:** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Times Divison Multiplexing and Autonomous Channel State Management (@nicopace). This project is called (astral-mesh).
+5. **Astral Mesh:** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Times Divison Multiplexing and Autonomous Channel State Management (@nicopace).
     
 ## Importance
 
