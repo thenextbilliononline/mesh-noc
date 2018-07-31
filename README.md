@@ -1,7 +1,22 @@
-# mesh-noc
+# Mesh-NOC
 This will be a stand-up mesh network operations center for new mesh locals to get up and go. Ideally the server infrastructre would be relatively independent (i.e. Wekan/BGP wouldn't have to be same device, but could be).
 
 # Checklist Infrastructure Required:  
+=======
+## Problem
+## Importance
+## Methods
+## Goals
+## Team
+## Data
+## Timeline
+## Success
+## Reproducibility
+## Scalability
+## Federation
+## Sustainability
+
+### Infrastructure Required:  
 
 [ ] ASN  
 [ ] BGP Server  
@@ -16,7 +31,12 @@ This will be a stand-up mesh network operations center for new mesh locals to ge
 [ ] Customer Relations management  
 [ ] Rocket chat/ slack  
 [ ] Wekan  
+[ ] Kanban
+[x] Organization
+[ ] Non-Profit Status
   
+### Money
+
 #### BGP/Datacenter Infrastructure:
 
 |Desc| Price |	QTY	 |Total |
@@ -80,11 +100,10 @@ Sprint funds to be allocated based on urgent and widespread need for a given pro
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale | 
 
-
 ### Long-Term Funding Ideas:  
 
-paid support for librerouters (requires different support model)  
-grant funding (better as seed capital/not sustainable)  
-member funding (enough to keep VPS going, not very much labor support at smalls scale)  
-research grants (the big money--labor costs can be funded for new research)  
-Vpns, tunnels, ip leasing, vps, etc  
+ * paid support for librerouters (requires different support model)  
+ * grant funding (better as seed capital/not sustainable)  
+ * member funding (enough to keep VPS going, not very much labor support at smalls scale)  
+ * research grants (the big money--labor costs can be funded for new research)  
+ * Vpns, tunnels, ip leasing, vps, etc  
