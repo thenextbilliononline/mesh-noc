@@ -1,7 +1,7 @@
 # mesh-noc
 This will be a stand-up mesh network operations center for new mesh locals to get up and go. Ideally the server infrastructre would be relatively independent (i.e. Wekan/BGP wouldn't have to be same device, but could be).
 
-Infrastructure Required:  
+# Checklist Infrastructure Required:  
 
 [ ] ASN  
 [ ] BGP Server  
@@ -15,7 +15,7 @@ Infrastructure Required:
 [ ] Volunteer intake  
 [ ] Customer Relations management  
 [ ] Rocket chat/ slack  
-[ ] Wekan
+[ ] Wekan  
   
 #### BGP/Datacenter Infrastructure:
 
@@ -43,8 +43,6 @@ Total: $7550
 
 Total: $1810
 
-
-<<<<<<< HEAD
 #### RF-Lab:  
 |Desc| Price |	QTY	 |Total 
 |---|-------|--------|------|
@@ -65,6 +63,8 @@ Total: $4900
 |Sprint funds| $20,000| 1 | $20000|
 |Research grant| $20,000| for the compilation and federation of community network knowledge in the Americas | 1 year | 
 
+Total: $50k
+
 Sprint funds to be allocated based on urgent and widespread need for a given production/deployment schedule as determined by mesh locals. These would be small grants (like $100 for a day of work) that would help us retain 'volunteers' and fund people in the developing world to do important mesh work (where the law permits).  By keeping the grants small and paying by project rather than time, we can open up our development to marginalized communities where $100 would have much more impact without ignoring the very real cost of volunteer labor. The program wil be called developers in diaspora. There are various models to establish a pay scale. Open whisper systems, the developers of signal have a platform for paying per commit to their repository. This might work, but could run afoul of international finance regulations if not done under strict supervision of a qualified attorney.
 
 #### Ongoing-costs:  
@@ -79,19 +79,12 @@ Sprint funds to be allocated based on urgent and widespread need for a given pro
 |Hosting | $1000 | year | $1000|
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale | 
-=======
-$$$$$ Labor  
-$$$ Translation  
-$1000/year VPS infrastructure  
 
-Long-Term Funding Ideas:  
+
+### Long-Term Funding Ideas:  
 
 paid support for librerouters (requires different support model)  
 grant funding (better as seed capital/not sustainable)  
 member funding (enough to keep VPS going, not very much labor support at smalls scale)  
 research grants (the big money--labor costs can be funded for new research)  
 Vpns, tunnels, ip leasing, vps, etc  
-
-
-
-
