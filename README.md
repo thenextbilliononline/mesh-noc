@@ -12,13 +12,14 @@ After many years of using commercially available hardware, Altermundi, in conjun
 
 ## Solutions
 
-So, in the spirit of inter-mesh cooperation, we have committed the next twelve months to:
+We see these 6 things as useful tools for helping community networks get started, as well as providing a platform for 
 
-1. **FODD (Federation of Decentralized Documentation):** Establishing lines of contact between mesh locals, document, research, and gather data to be placed in a centralized location and shared with each mesh local. (@simplymathematics)
-2. **Mesh-Noc:** Building a stand-alone mesh network operations center that will allow any mesh local (or other decentralized, open-source group) to deploy an open-source productivity and web app suite for everything from emails and calendars, to cloud documents and inter-mesh tunneling. (@mikenabhan)
-3. **Mesh Lab:** Developing a theoretical framework and test-suite for mesh network spectrum management using anonymous data gathered from librerouters and simulated on Mini-net Wifi (with mesh extensions) (@simplymathematics).
-4. **Mesh Map:** Using Raspberry Pis and/or Libre-routers, we will create a heatmapping and spectrum monitoring platform to aid in data collection and analysis for the other components.
-5. **Astral Mesh:** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Time Divison Multiplexing and Autonomous Channel State Management (@nicopace).
+1. **FODD (Federation of Decentralized Documentation):** Establishing lines of contact between mesh locals, document, research, and gather data to be placed in a centralized location and shared with each mesh local.
+2. **Mesh-Noc:** Building a stand-alone mesh network operations center that will allow any mesh local (or other decentralized, open-source group) to deploy an open-source productivity and web app suite for everything from emails and calendars, to cloud documents and inter-mesh tunneling. (@mikenabhan) This is in the mesh-noc repo.
+3. **Mesh-Stack:** A collaboration, storage, webmail, and office suite for community groups can host their own services. @miknabhan. This does not yet have a repository. Contact one of the devs for access to the test lab instead.
+4. **Radio-Lab:** Developing a theoretical framework and test-suite for mesh network spectrum management using anonymous data gathered from librerouters and simulated in the cloud. It will also have tools for building heatmaps of live networks. (@simplymathematics). This lives in the radio-lab repository.
+5. **Radio Map:** Using Raspberry Pis and/or Libre-routers, we will create a heatmapping and spectrum monitoring platform to aid in data collection and analysis for the other components. This also lives in the radio-lab repository. 
+6. **Astral Mesh:** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Time Divison Multiplexing and Autonomous Channel State Management (@nicopace). This is an ongoing project across many researchers and institutions. Contact
 
 ## Importance
 
@@ -39,10 +40,10 @@ This virtuous relation between hardware vendors and the community has been threa
 
 There are three key problems facing community networks all over the world right now: documentation and coordination of best practices, parallel reproduction of management/support efforts, and a lack of smart spectrum management. We have a roadmap to begin addressing these issues.
 
-1. FODD
+1. Documentation
 2. Mesh-Noc
-3. Mesh-Lab
-4. Mesh-Map
+3. Mesh-Stack
+4. Radio-Lab
 5. Astral-Mesh
 
 ## Goals
@@ -56,38 +57,18 @@ There are three key problems facing community networks all over the world right 
 
 ## Team
 
-@simplymathematics:
-@mikenabhan:
-mikenabhan is an ideal candidate for this role.  His technical background is as a DataOps Engineer for a State Agency.  Mike has experience in architecting IT infrastructure that is resilient to failures, actively running a network announced via BGP and in the process of writing implementation standard for a decentralized BGP over CJDNS network.  The intent of this project is to integrate the solutions that BGP solved during its implementation in 1994 with the current mesh networking standards to allow for the integration of more traditional networking services over a mesh network, as well as provide knowledge on how the internet backbone functions to mesh enthusiasts.  Mike runs a information technology consulting firm to keep his skills sharp.  Mike is a security enthusiast and moonlights as a penetration tester, and is certified to DoD Information Assurance Technical Level II, as well as certified in the operations of a Security Operations Center.  Mike’s hobby network spans multiple continents, and he has been contracted to harden distributed infrastructure as well as implement automation and orchestration solutions of distributed infrastructure.  Mike is also a licensed radio amateur, primarily active in IP-modes.  For his day job, Mike’s experience is in big data analytics, and infrastructure monitoring of safety critical assets.  This skillset combines to form an ideal candidate for taking lead on the development of a Mesh Network Operations Center.  Mike is particularly passionate about the mission of The Next Billion, evangelizing the role that technology can play in advancing the interests of people who have limited to no access to the internet at large.
-@brazilian-code:
+@simplymathematics: modelling/embedded dev
+@mikenabhan: orchestration/deployment
+
 ## Data Policies
 
-1. funding, govenance, protocols, tech, best practices
-2. no logs, no masters
-3. RSSI, GPS, Link Quality, QoS data
-4. Mesh Map Kits
-5. Community-controlled spectrum management
+1. We don't want your data. 
+2. Though we are self-funded, all money is tracked  [here](money.thenextbillion.online). Our governance is open-source and _defacto_. Changes to that policy will live [here](meta.thenextbillion.online). 
+3. no logs, no masters
+4. RSSI, GPS, Link Quality, QoS data
+5. Mesh Map Kits
+6. Community-controlled spectrum management
 
-## Timeline
-Summer/Fall 2018:
-
-We will release/test/promote Librerouter/Libremesh and establish lines of communication with community networks, mesh networks, etc all over the world. We will document their best practices regarding governace, funding, protocol, architecture, etc
-
-Winter 2018:
-
-We finalize organizational details including governance and stipends following legal guidance. We will establish funding distribution procedures for developers in diaspora (to the extent allowable by law). We will choose tools for Mesh-NOC, conduct theoretical research for spectrum management techniques, prototype the heatmapping/network-state-mapping kits, finish the Mininet mesh extensions and begin to deploy Librerouters in the wild.
-
-Winter 2019:
-
-We will be able to begin distribution of funds to developers to allow for agile development in this phase. We will prototype the mesh-noc stack, simulate possible spectrum management techniques with Mininet, collect real-world data from Librerouters and the mapping kits, and deploy more Librerouters in the wild.
-
-Spring 2019:
-
-We will release another round of funding for development, focused on real-world deployment. We will test the Mesh-NOC in several new cities, adding features and support as needed. We will deploy and test Astral-Mesh techniques with the Libremesh platform in the wild. We will gather data using the Mesh Map kits.
-
-Summer 2019:
-
-Member-support, VPN service, VPS service, hardware, hardware support, etc to be provided as part of membership and/or funding scheme that has yet to be determined.
 
 ## Success
 
@@ -116,7 +97,7 @@ $$$ TBD
 [ ] BGP Server  
 [ ] DNS Server  
 [ ] Tunneling Server  
-[ ] Stand-up Website  
+[x] Stand-up Website  
 [ ] Cryptpad Server  
 [ ] SMTP server  
 [ ] Calendar Application  
@@ -201,7 +182,7 @@ Total: $410
 |Hosting | $1000 | year | $1000|
 |Hardware  maintenance | $10000 | 5 years | $2000/year|
 |BGP transit | $.30 | mbps | continuous, with scale |
-|Inter-mesh Travel| $200-$500 | per trip | continuous, with scale |
+|Inter-mesh Travel| $200-$500 | per 'local' trip| continuous, with scale |
 
 
 ### Long-Term Funding Ideas:  
