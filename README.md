@@ -19,7 +19,7 @@ We see these 6 things as useful tools for helping community networks get started
 3. **Mesh-Stack:** A collaboration, storage, webmail, and office suite for community groups can host their own services. @miknabhan. This does not yet have a repository. Contact one of the devs for access to the test lab instead.
 4. **Radio-Lab:** Developing a theoretical framework and test-suite for mesh network spectrum management using anonymous data gathered from librerouters and simulated in the cloud. It will also have tools for building heatmaps of live networks. (@simplymathematics). This lives in the radio-lab repository.
 5. **Radio Map:** Using Raspberry Pis and/or Libre-routers, we will create a heatmapping and spectrum monitoring platform to aid in data collection and analysis for the other components. This also lives in the radio-lab repository. 
-6. **Astral Mesh:** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Time Divison Multiplexing and Autonomous Channel State Management (@nicopace). This is an ongoing project across many researchers and institutions. Contact
+6. **Astral Mesh:** Using this new-found inter-mesh network to deploy, test, and rebuild spectrum management techniques like Time Divison Multiplexing and Autonomous Channel State Management (@nicopace). This is an ongoing project across many researchers and institutions. Reach out to him if you would like to be added to the listserv.
 
 ## Importance
 
