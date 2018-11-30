@@ -74,9 +74,10 @@ There are three key problems facing community networks all over the world right 
 
 1. FODD
 2. Mesh-Noc
-3. Mesh-Lab
-4. Mesh-Map
-5. Astral-Mesh
+3. Mesh-Stack
+4. Radio-Lab
+5. Mesh-Map
+6. Astral-Mesh
 
 ## Reproducibility
 
@@ -94,19 +95,11 @@ $$$ TBD
 ##### Checklist  of Infrastructure Required:  
 
 [ ] ASN  
-[ ] BGP Server  
-[ ] DNS Server  
-[ ] Tunneling Server  
-[x] Stand-up Website  
-[ ] Cryptpad Server  
-[ ] SMTP server  
-[ ] Calendar Application  
-[ ] Meet-up Page  
-[ ] Volunteer intake  
-[ ] Customer Relations management  
-[ ] Rocket chat/ slack  
-[ ] Kanban  
-[x] Organization  
+[ ] Mesh-NOC  
+[ ] Mesh-Stack 
+[ ] Radio Lab 
+[ ] Organization  
+[ ] Governance
 [ ] Non-Profit Status   
 
 #### BGP/Datacenter Infrastructure:

@@ -9,6 +9,7 @@ The NOC will be designed to function from a single datacenter (Virtualized or ot
 
 ## Network Stack
 
+- [ ] ASN
 - [ ] CJDNS
 - [ ] TINC
 - [ ] TOR
