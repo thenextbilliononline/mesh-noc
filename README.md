@@ -94,13 +94,13 @@ $$$ TBD
 ### Infrastructure Required:  
 ##### Checklist  of Infrastructure Required:  
 
-[ ] ASN  
-[ ] Mesh-NOC  
-[ ] Mesh-Stack 
-[ ] Radio Lab 
-[ ] Organization  
-[ ] Governance
-[ ] Non-Profit Status   
+- [ ] ASN  
+- [ ] Mesh-NOC  
+- [ ] Mesh-Stack 
+- [ ] Radio Lab 
+- [ ] Organization  
+- [ ] Governance
+- [ ] Non-Profit Status   
 
 #### BGP/Datacenter Infrastructure:
 
